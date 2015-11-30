@@ -1,6 +1,6 @@
 # 2015复旦大学数据结构
 
-## data reformat
+## Data Reformat
 
 Explaination of the format of **shanghai_map.in**
 
@@ -30,7 +30,7 @@ sample input
 hint: The sample input describe a triangle.
 
 
-## About ways filter
+## About Ways Filter
 
 According to the reference, only **highway** of
 
