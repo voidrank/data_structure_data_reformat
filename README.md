@@ -30,5 +30,28 @@ sample input
 hint: The sample input describe a triangle.
 
 
+## About ways filter
+
+According to the reference, only **highway** of
+
+```
+motoway
+trunk
+primary
+secondary
+tertiaty
+unclassified
+residental
+motoway_link
+trunk_link
+primary_link
+tertiary_link
+road
+```
+are selected.
+
+Visit [map feature](http://wiki.openstreetmap.org/wiki/Map_Features) for more details.
+
+
 ## Other Usage:
 see **extract_nodes.py**
